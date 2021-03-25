@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reduxAsteroid.io/static/css/main.d77bd40d.chunk.css",
+    "main.js": "/reduxAsteroid.io/static/js/main.2bbc758e.chunk.js",
+    "main.js.map": "/reduxAsteroid.io/static/js/main.2bbc758e.chunk.js.map",
+    "runtime-main.js": "/reduxAsteroid.io/static/js/runtime-main.6d815b8a.js",
+    "runtime-main.js.map": "/reduxAsteroid.io/static/js/runtime-main.6d815b8a.js.map",
+    "static/css/2.150d169a.chunk.css": "/reduxAsteroid.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.5b241a53.chunk.js": "/reduxAsteroid.io/static/js/2.5b241a53.chunk.js",
+    "static/js/2.5b241a53.chunk.js.map": "/reduxAsteroid.io/static/js/2.5b241a53.chunk.js.map",
+    "index.html": "/reduxAsteroid.io/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/reduxAsteroid.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d77bd40d.chunk.css.map": "/reduxAsteroid.io/static/css/main.d77bd40d.chunk.css.map",
+    "static/js/2.5b241a53.chunk.js.LICENSE.txt": "/reduxAsteroid.io/static/js/2.5b241a53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d815b8a.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.5b241a53.chunk.js",
+    "static/css/main.d77bd40d.chunk.css",
+    "static/js/main.2bbc758e.chunk.js"
+  ]
+}
