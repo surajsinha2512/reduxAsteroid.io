@@ -6,6 +6,7 @@ function App() {
   const [check,setCheck]=useState(0);
   const [but,setBut]=useState(true)
   const [random,setRandom]=useState(false);
+  
 const handler=()=>{
    setCheck(true)
 }
