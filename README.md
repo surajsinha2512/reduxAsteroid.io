@@ -1,4 +1,4 @@
-#https://surajsinha2512.github.io/ginete.io/
+#  https://surajsinha2512.github.io/reduxAsteroid.io/
 
 Hosted Link
 # Getting Started with Create React App
