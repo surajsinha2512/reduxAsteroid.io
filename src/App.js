@@ -13,8 +13,6 @@ const handler=()=>{
 }
 const randomHandler=()=>{
   setRandom(true)
- // window.open(`asteroidDetails.io/open`, "_blank")
-  console.log(window.location.pathname)
 }
 
   return (

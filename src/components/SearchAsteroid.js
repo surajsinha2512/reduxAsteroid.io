@@ -7,12 +7,9 @@ useEffect(()=>{
     axios.get('https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY').then((r)=>{
        return r.data
     }).then((r)=>{
-       // console.log(r.data.near_earth_objects)
-     //  console.log(r)
         setData(state=>[...state,...r.near_earth_objects])
     })
 },[])
-
 
     return(
         <>

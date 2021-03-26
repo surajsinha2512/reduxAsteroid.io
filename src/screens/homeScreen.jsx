@@ -1,17 +1,17 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { listProducts } from "../Actions/productActions";
+import { Actions } from "../Actions/Actions";
 import Loader from "../components/Loader";
 import './screen.css';
+
 const HomeScreen = (props) => {
   const dispatch = useDispatch();
-
-  const productList = useSelector((state) => state.productListReducer); 
-  const { loading, products } = productList;
+  const dataList = useSelector((state) => state.Reducer); 
+  const { loading, products } = dataList;
   useEffect(() => {
-    dispatch(listProducts(props)); 
+    dispatch(Actions(props)); 
   }, [dispatch]); 
-    console.log(productList);
+   console.log(dataList);
   return (
     <>
       {loading ? (
