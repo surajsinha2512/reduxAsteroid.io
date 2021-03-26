@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reduxAsteroid.io/static/css/main.d77bd40d.chunk.css",
-    "main.js": "/reduxAsteroid.io/static/js/main.06999988.chunk.js",
-    "main.js.map": "/reduxAsteroid.io/static/js/main.06999988.chunk.js.map",
+    "main.js": "/reduxAsteroid.io/static/js/main.a4d8b357.chunk.js",
+    "main.js.map": "/reduxAsteroid.io/static/js/main.a4d8b357.chunk.js.map",
     "runtime-main.js": "/reduxAsteroid.io/static/js/runtime-main.6d815b8a.js",
     "runtime-main.js.map": "/reduxAsteroid.io/static/js/runtime-main.6d815b8a.js.map",
     "static/css/2.150d169a.chunk.css": "/reduxAsteroid.io/static/css/2.150d169a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a0b297b7.chunk.js",
     "static/css/main.d77bd40d.chunk.css",
-    "static/js/main.06999988.chunk.js"
+    "static/js/main.a4d8b357.chunk.js"
   ]
 }
